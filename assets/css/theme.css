@@ -13113,3 +13113,8 @@ a.theme-link:hover {
         width: 400px
     }
 }
+
+.flex {
+    display: flex;
+    align-items: center;
+}
